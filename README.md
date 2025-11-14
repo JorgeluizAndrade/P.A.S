@@ -32,7 +32,7 @@ A proposta do P.A.S. é ser um guia prático de alimentação consciente, ajudan
 - **HTML, CSS e JavaScript**
 - **Tailwind CSS** (utilizado nos estilos)
 - **Vite** para bundling e desenvolvimento rápido
-- **API** (provável uso futuro para integrações dinâmicas)
+- **API** EmailJS e outras(provável uso futuro para integrações dinâmicas)
 
 ---
 
