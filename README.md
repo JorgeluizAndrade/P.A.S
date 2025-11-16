@@ -78,6 +78,29 @@ Funcionalidades planejadas para versões futuras:
 
 ---
 
+## Equipe e contatos
+
+Allan Pereira de Lima 
+André Rangel Canella Novaes 
+Gabriel Fiser Lira 
+Jorge Luiz Andrade de Souza  
+Micael Lopes Gomes da Silva 
+Richard Lopes Stroug
+
+---
+
+
+## Link do protótipo
+
+https://excalidraw.com/#room=0a58955b04046fbfef36,CkuCzaNfEPyW2_TzduWpZQ
+
+---
+
+## Video
+
+https://youtu.be/cNF-_GBMMwU?si=Dkl4qaHpTR5B7jLR
+
+---
 ## Contribua
 
 Sugestões de melhoria, correção de bugs e novas funcionalidades são bem-vindas! Abra uma Issue ou Pull Request neste repositório.
