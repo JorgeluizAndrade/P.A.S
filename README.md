@@ -80,12 +80,12 @@ Funcionalidades planejadas para versões futuras:
 
 ## Equipe e contatos
 
-Allan Pereira de Lima 
-André Rangel Canella Novaes 
-Gabriel Fiser Lira 
-Jorge Luiz Andrade de Souza  
-Micael Lopes Gomes da Silva 
-Richard Lopes Stroug
+- **Allan Pereira de Lima**
+- **André Rangel Canella Novaes** 
+- **Gabriel Fiser Lira** 
+- **Jorge Luiz Andrade de Souza**  
+- **Micael Lopes Gomes da Silva** 
+- **Richard Lopes Stroug**
 
 ---
 
