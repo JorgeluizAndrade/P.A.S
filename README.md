@@ -41,8 +41,9 @@ A proposta do P.A.S. é ser um guia prático de alimentação consciente, ajudan
 - `index.html`: Página principal da aplicação com navegação, apresentação, acesso às ferramentas, roadmap e formulário de newsletter.
 - `src/pages/calculadora.html`: Página dedicada à Calculadora de Impacto/Desperdício.
 - `src/pages/biblioteca.html`: Página da biblioteca de conteúdos educativos.
-- `style.css`, `src/styles/calculadora.css`: Estilos globais e específicos das páginas principais.
+- `style.css`,  `src/styles/biblioteca.css`, `src/styles/calculadora.css`: Estilos globais e específicos das páginas principais.
 - `src/main.js`: Entrada do JavaScript para inicialização e exemplos.
+- 
 
 ---
 
