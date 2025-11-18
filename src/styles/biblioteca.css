@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;
@@ -36,7 +35,7 @@ html, body {
     font-weight: 700;
     font-size: 20px;
     color: #4b4b15;
-    padding-right: 2vw; /* margem lateral responsiva */
+    padding-right: 2vw; 
 }
 
 
@@ -62,7 +61,6 @@ html, body {
 }
 
 .join-btn {
-    /* background: #f4c43d; */
     opacity: 0;
     padding: 10px 25px;
     border: none;
@@ -96,10 +94,11 @@ html, body {
     margin: 60px auto;
     width: 90%;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap: 30px;
     justify-items: center;
 }
+
 
 .card {
     width: 310px;
@@ -201,4 +200,45 @@ html, body {
 
 .more-btn:hover {
     filter: brightness(0.9);
+}
+
+.cards-container {
+    position: relative; 
+}
+
+.bg-circle {
+    position: absolute;
+    width: 380px;
+    height: 380px;
+    border-radius: 50%;
+    opacity: 0.35;
+    z-index: -1;
+}
+
+.ods2-circle { background: #f1bc0e; top: -60px; right: -150px; }
+.ods4-circle { background: #d02525; top: -60px; left: -150px; }
+.ods12-circle { background: #bf8b2e; top: -60px; right: -150px; }
+
+@media (max-width: 768px) {
+
+    .bg-circle {
+        width: 200px;
+        height: 200px;
+        opacity: 0.25;
+    }
+
+    .ods2-circle {
+        top: -20px;
+        right: -80px;
+    }
+
+    .ods4-circle {
+        top: -20px;
+        left: -80px;
+    }
+
+    .ods12-circle {
+        top: -20px;
+        right: -80px;
+    }
 }
